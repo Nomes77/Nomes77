@@ -4,7 +4,7 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
 
 ## Developer for Fun
 - 🔭 I’m currently working on: [EasyDutch](https://github.com/BPower0036/EasyDutch/)
-- 🌱 I’m currently learning everything I come along.
+- 🌱 I’m currently learning everything I come along and want to to different or nicer.
 - 🤔 I’m looking for help with solving a problem on my [YT-Nonstop extension](https://github.com/BPower0036/YT-Nonstop/issues/8)
 - 💬 Ask me about anything I maybe can know.
 - 📫 How to reach me: Make an issue on my GitHub pages or start [here a Discussion](https://github.com/BPower0036/BPower0036/discussions)
