@@ -3,7 +3,7 @@ I'm BPower0036. I develop things, because I want them better then other people h
 I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/2323309#map=5/51.154/9.712). If you want, you can talk English, Dutch and even German to me. I understand it all.
 
 ## Developer for Fun
-- 🔭 I’m currently working on: [EasyDutch](https://github.com/BPower0036/EasyDutch/)
+- 🔭 I’m currently working on: [EasyDutch](https://github.com/EasyDutch-uBO/EasyDutch/)
 - 🌱 I’m currently learning everything I come along and want to to different or nicer.
 - 🤔 I’m looking for help with solving a problem on my [YT-Nonstop extension](https://github.com/BPower0036/YT-Nonstop/issues/8)
 - 💬 Ask me about anything I maybe can know.
