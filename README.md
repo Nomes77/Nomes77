@@ -12,4 +12,5 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
 - ⚡ Fun fact: Everything done on my GitHub repro's, I learned myself without any prior knowledge
 
 [![BPower0036's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BPower0036&show_icons=true&count_private=true&include_all_commits=true&theme=radical)]() <br>
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=github-dark)]() <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BPower0036&layout=compact&langs_count=10)]()
