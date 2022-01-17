@@ -14,4 +14,4 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
 [![BPower0036's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BPower0036&show_icons=true&count_private=true&include_all_commits=true&theme=radical)]() <br>
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=github-dark)]() <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BPower0036&layout=compact&langs_count=10)]() <br>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&reversal=true&text=Please%20support%20me&animation=blinking&fontSize=35&fontAlignY=85&height=100"/>
