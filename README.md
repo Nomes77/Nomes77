@@ -15,7 +15,8 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
 <table>
   <tr>
     <td>
-      <img src="/github-metrics.svg" alt="Metrics"></img>
+      <img src="/metrics.base.svg" alt="Base"></img>
+      <img src="/metrics.plugin.lines.svg" alt="Lines"></img>
     </td>
     <td>
       <img src="/metrics.plugin.isocalendar.svg" alt="Full-year calendar"></img>
@@ -31,9 +32,6 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
   </tr>
     <td>
       <img src="/metrics.plugin.followup.user.svg" alt="Follow up"></img>
-    </td>
-    <td>
-       <img src="/metrics.plugin.lines.svg" alt="Lines"></img>
     </td>
   </tr>
 </table> </br>
