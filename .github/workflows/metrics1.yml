@@ -1,4 +1,4 @@
-name: Metrics-Master
+name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 0 * * *"}]
@@ -25,7 +25,7 @@ jobs:
           filename: .github/src/metrics.plugin.habits.charts.svg
           base: ""
           plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_from: 300       # Use 200 events to compute habits
           plugin_habits_days: 14        # Keep only events from last 14 days
           plugin_habits_facts: no       # Display facts section
           plugin_habits_charts: yes     # Display charts section
@@ -49,5 +49,48 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used
+          token: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: .github/src/metrics.plugin.lines.svg
+          base: repositories, metadata
+          plugin_lines: yes
+          token: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          # template: repository
+          filename: .github/src/metrics.plugin.followup.user.svg
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+          token: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          template: repository
+          filename: .github/src/metrics.plugin.activity.svg
+          base: ""
+          user: BPower0036
+          repo: BPower0036
+          plugin_activity: yes
+          plugin_activity_days: 31
+          plugin_activity_limit: 77
+          plugin_activity_visibility: public
+          plugin_activity_timestamps: yes
+          plugin_activity_skipped: chess, BPower0036
+          token: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: .github/src/metrics.plugin.reactions.svg
+          base: ""
+          plugin_reactions: yes
+          # plugin_reactions_display: relative
+          plugin_reactions_details: percentage
+          token: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: .github/src/metrics.plugin.people.repository.svg
+          base: ""
+          plugin_people: yes
+          plugin_people_types: followers, contributors, stargazers, watchers
           token: ${{ secrets.METRICS_TOKEN }}
 
