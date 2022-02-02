@@ -17,7 +17,7 @@ jobs:
           filename: metrics.plugin.isocalendar.svg
           base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year # Display full year instead of half year
+          plugin_isocalendar_duration: full-year
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@master
         with:
@@ -28,7 +28,7 @@ jobs:
           plugin_habits_days: 14        # Keep only events from last 14 days
           plugin_habits_facts: no       # Display facts section
           plugin_habits_charts: yes     # Display charts section
-          plugin_habits_trim: yes       # Trim unused hours on daily chart
+          plugin_habits_trim: no        # Trim unused hours on daily chart
           config_timezone: Europe/Paris # Set timezone
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@master
@@ -49,16 +49,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
-          # template: repository
           filename: metrics.plugin.lines.svg
-          user: BPower0036
-          repo: BPower0036
           base: repositories
           plugin_lines: yes
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
-          template: repository  # classic, markdown
+          template: repository
           filename: metrics.plugin.activity.svg
           base: ""
           user: BPower0036
