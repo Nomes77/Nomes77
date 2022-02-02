@@ -76,7 +76,7 @@ jobs:
           plugin_activity_limit: 77
           plugin_activity_visibility: public
           plugin_activity_timestamps: yes
-          plugin_activity_skipped: chess, BPower0036
+          plugin_activity_skipped: BPower0036/chess, BPower0036/BPower0036
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
