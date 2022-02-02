@@ -11,7 +11,7 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           filename: metrics.base.svg
-          base: header, activity, community, repositories
+          base: header, activity, community
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@master
         with:
