@@ -11,45 +11,50 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: Everything done on my GitHub repro's I have learned myself without any prior coding knowledge.
 
-<!--![BPower0036's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BPower0036&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B) <br> -->
-<table>
+![BPower0036's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BPower0036&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B&custom_title=All%20My%20Stats%20in%20a%20Nutshell) <br>
+<table align="center">
   <tr>
-    <td>
-      <img src="/metrics.base.svg" alt="Base"></img>
-      <img src="/metrics.plugin.lines.svg" alt="Lines"></img>
+    <td align="center">
+      <img src="/metrics.base.svg" alt="Base" width="400"></img>
+      <img src="/metrics.plugin.lines.svg" alt="Lines" width="400"></img>
     </td>
-    <td>
-      <img src="/metrics.plugin.isocalendar.svg" alt="Full-year calendar"></img>
+    <td align="center">
+      <img src="/metrics.plugin.isocalendar.svg" alt="Full-year calendar" width="400"></img>
       <tr>
     </td>
   </tr>
-    <td>
-      <img src="/metrics.plugin.habits.charts.svg" alt="Habits charts"></img>
+  <tr>
+    <td align="center">
+      <img src="/metrics.plugin.habits.charts.svg" alt="Habits charts" width="400"></img>
     </td>
-    <td>
-       <img src="/metrics.plugin.languages.details.svg" alt="Languages details"></img>
-    </td>
-  </tr>
-    <td>
-      <img src="/metrics.plugin.followup.user.svg" alt="Follow up"></img>
+    <td align="center">
+       <img src="/metrics.plugin.followup.user.svg" alt="Follow up" width="400"></img>
     </td>
   </tr>
-</table> </br>
-<table align="center">
-  <td>
-    <img src="/metrics.plugin.activity.svg" alt="Activity"></img>
-  </td>
-</table> </br>
-<table>
-    <td>
-      <img src="/metrics.plugin.reactions.svg" alt="Reactions"></img>
+  <tr>
+    <td  align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPower0036&layout=compact&langs_count=10" alt="Top Languages"></img>
     </td>
-    <td>
-       <img src="/metrics.plugin.people.repository.svg" alt="People reprository"></img>
+    <td  align="center">
+       <img src="/metrics.plugin.languages.details.svg" alt="Languages lost used" width="400"></img>
+    </td
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="/metrics.plugin.activity.svg" alt="Activity" width="400"></img>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="/metrics.plugin.reactions.svg" alt="Reactions" width="400"></img>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+       <img src="/metrics.plugin.people.repository.svg" alt="People reprository" width="400"></img>
     </td>
   </tr>
 </table>
 
-<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=chartreuse-dark) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BPower0036&layout=compact&langs_count=10) --> <br>
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=chartreuse-dark) <br> --> <br>
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&reversal=true&text=Please%20support%20me&animation=blinking&fontSize=35&fontAlignY=85&height=100)](https://www.paypal.com/donate?hosted_button_id=M4D2NPZX5NS4C)
