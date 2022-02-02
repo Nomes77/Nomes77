@@ -10,6 +10,8 @@ jobs:
     steps:
       - uses: lowlighter/metrics@master
         with:
+          filename: metrics.base.svg
+          base: header, activity, community, repositories
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@master
         with:
