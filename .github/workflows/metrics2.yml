@@ -31,6 +31,8 @@ jobs:
           repo: BPower0036
           plugin_activity: yes
           plugin_activity_days: 31
+          plugin_activity_limit: 150
+          plugin_activity_visibility: public
           plugin_activity_timestamps: yes
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
@@ -46,5 +48,5 @@ jobs:
           filename: .github/src/metrics.plugin.people.repository.svg
           base: ""
           plugin_people: yes
-          # plugin_people_types: followers, contributors, stargazers, watchers, sponsors
+          plugin_people_types: followers, contributors, stargazers, watchers, sponsors
           token: ${{ secrets.METRICS_TOKEN }}
