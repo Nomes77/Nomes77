@@ -33,7 +33,7 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
   </tr>
   <tr>
     <td  align="center" width="400">
-      <img src=".github/src/metrics.plugin.languages.details2.svg alt="Top Languages"></img>
+      <img src=".github/src/metrics.plugin.languages.details2.svg" alt="Top Languages"></img>
       <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPower0036&layout=compact&langs_count=10" alt="Top Languages"></img> -->
     </td>
     <td  align="center" width="400">
@@ -43,6 +43,7 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
   <tr>
     <td align="center" colspan="2">
       <img src=".github/src/metrics.plugin.activity.svg" alt="Activity" width="400"></img>
+      <img src="https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=chartreuse-dark" alt="Activity Graph"></img>
     </td>
   </tr>
   <tr>
@@ -57,5 +58,4 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
   </tr>
 </table>
 
-<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=chartreuse-dark) <br> --> <br>
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&reversal=true&text=Please%20support%20me&animation=blinking&fontSize=35&fontAlignY=85&height=100)](https://www.paypal.com/donate?hosted_button_id=M4D2NPZX5NS4C)
