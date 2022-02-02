@@ -12,11 +12,6 @@ jobs:
       # See action.yml for all options
       - uses: lowlighter/metrics@master
         with:
-          # Your GitHub token
-          template: repository
-          token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@master
-        with:
           filename: metrics.plugin.isocalendar.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # Display full year instead of half year
