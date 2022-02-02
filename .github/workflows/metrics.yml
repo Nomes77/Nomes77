@@ -16,8 +16,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.introduction.repository.svg
           template: repository
+          filename: metrics.plugin.introduction.repository.svg
           user: BPower0036
           repo: BPower0036
           base: header
@@ -42,10 +42,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@master
         with:
+          # template: repository
           filename: metrics.plugin.languages.details.svg
           user: BPower0036
           repo: BPower0036
-          # template: repository
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: lines, percentage
@@ -53,32 +53,33 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.followup.user.svg
           # template: repository
+          filename: metrics.plugin.followup.user.svg
           plugin_followup: yes
           plugin_followup_indepth: yes
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
+          # template: repository
           filename: metrics.plugin.lines.svg
           user: BPower0036
           repo: BPower0036
           base: repositories
-          # template: repository
           plugin_lines: yes
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
+          template: repository  # classic, markdown
           filename: metrics.plugin.activity.svg
           user: BPower0036
           repo: BPower0036
-          template: repository  # classic, markdown
           plugin_activity: yes
           plugin_activity_days: 31
           plugin_activity_timestamps: yes
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
+          template: repository
           filename: metrics.plugin.reactions.svg
           user: BPower0036
           repo: BPower0036
@@ -88,10 +89,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
+          template: repository
           filename: metrics.plugin.people.repository.svg
           user: BPower0036
           repo: BPower0036
-          template: repository
           plugin_people: yes
           # plugin_people_types: followers, contributors, stargazers, watchers, sponsors
           token: ${{ secrets.METRICS_TOKEN }}
