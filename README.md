@@ -11,7 +11,7 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
 - 😄 Pronouns: Mr.
 - ⚡ Fun fact: Everything done on my GitHub repro's I have learned myself without any prior coding knowledge.
 
-![BPower0036's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BPower0036&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B&custom_title=All%20My%20Stats%20in%20a%20Nutshell) <br>
+<img src="https://github-readme-stats.vercel.app/api?username=BPower0036&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B&custom_title=All%20My%20Stats%20in%20a%20Nutshell" alt="BPower0036's GitHub Stats" href="" align="center"></img><br>
 <table align="center">
   <tr>
     <td align="center" width="400">
@@ -36,7 +36,7 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPower0036&layout=compact&langs_count=10" alt="Top Languages"></img>
     </td>
     <td  align="center" width="400">
-       <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages lost used"></img>
+       <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages most used"></img>
     </td
   </tr>
   <tr>
@@ -51,7 +51,7 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
   </tr>
   <tr>
     <td align="center" colspan="2">
-       <img src=".github/src/metrics.plugin.people.repository.svg" alt="People reprository"></img>
+       <img src=".github/src/metrics.plugin.people.repository.svg" alt="People reprository" width="400"></img>
     </td>
   </tr>
 </table>
