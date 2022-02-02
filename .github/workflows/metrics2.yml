@@ -10,17 +10,17 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.lines.svg
+          base: repositories, metadata
+          plugin_lines: yes
+          token: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
           # template: repository
           filename: metrics.plugin.followup.user.svg
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
-          token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.lines.svg
-          base: repositories
-          plugin_lines: yes
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
