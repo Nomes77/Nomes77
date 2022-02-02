@@ -19,6 +19,7 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.habits.charts.svg
+          base: ""
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
           plugin_habits_days: 14        # Keep only events from last 14 days
@@ -30,6 +31,7 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           # template: repository
+          base: ""
           filename: metrics.plugin.languages.details.svg
           user: BPower0036
           repo: BPower0036
@@ -41,6 +43,7 @@ jobs:
         with:
           # template: repository
           filename: metrics.plugin.followup.user.svg
+          base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
           token: ${{ secrets.METRICS_TOKEN }}
@@ -57,6 +60,7 @@ jobs:
         with:
           template: repository  # classic, markdown
           filename: metrics.plugin.activity.svg
+          base: ""
           user: BPower0036
           repo: BPower0036
           plugin_activity: yes
@@ -67,6 +71,7 @@ jobs:
         with:
           template: repository
           filename: metrics.plugin.reactions.svg
+          base: ""
           user: BPower0036
           repo: BPower0036
           plugin_reactions: yes
@@ -77,6 +82,7 @@ jobs:
         with:
           template: repository
           filename: metrics.plugin.people.repository.svg
+          base: ""
           user: BPower0036
           repo: BPower0036
           plugin_people: yes
