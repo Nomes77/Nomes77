@@ -13,6 +13,7 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
 
 ![BPower0036's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BPower0036&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B) <br>
 ![Metrics](https://github.com/BPower0036/BPower0036/blob/main/metrics.plugin.isocalendar.svg)
+![Metrics](https://github.com/BPower0036/BPower0036/blob/main/metrics.plugin.habits.charts.svg)
 ![Metrics](https://github.com/BPower0036/BPower0036/blob/main/metrics.plugin.languages.details.svg)
 ![Metrics](https://github.com/BPower0036/BPower0036/blob/main/metrics.plugin.followup.user.svg)
 ![Metrics](https://github.com/BPower0036/BPower0036/blob/main/metrics.plugin.lines.svg)
