@@ -10,14 +10,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.lines.svg
+          filename: .github/src/metrics.plugin.lines.svg
           base: repositories, metadata
           plugin_lines: yes
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
           # template: repository
-          filename: metrics.plugin.followup.user.svg
+          filename: .github/src/metrics.plugin.followup.user.svg
           base: ""
           plugin_followup: yes
           plugin_followup_indepth: yes
@@ -25,7 +25,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           template: repository
-          filename: metrics.plugin.activity.svg
+          filename: .github/src/metrics.plugin.activity.svg
           base: ""
           user: BPower0036
           repo: BPower0036
@@ -35,22 +35,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
-          template: repository
-          filename: metrics.plugin.reactions.svg
+          filename: .github/src/metrics.plugin.reactions.svg
           base: ""
-          user: BPower0036
-          repo: BPower0036
           plugin_reactions: yes
           # plugin_reactions_display: relative
-          # plugin_reactions_details: percentage
+          plugin_reactions_details: percentage
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
-          template: repository
-          filename: metrics.plugin.people.repository.svg
+          filename: .github/src/metrics.plugin.people.repository.svg
           base: ""
-          user: BPower0036
-          repo: BPower0036
           plugin_people: yes
           # plugin_people_types: followers, contributors, stargazers, watchers, sponsors
           token: ${{ secrets.METRICS_TOKEN }}
