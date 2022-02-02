@@ -33,11 +33,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@master
         with:
-          # template: repository
           base: ""
           filename: metrics.plugin.languages.details.svg
-          user: BPower0036
-          repo: BPower0036
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: lines, percentage
