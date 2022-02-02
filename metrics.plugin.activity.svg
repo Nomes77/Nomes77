@@ -30,11 +30,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2b62d16</div>
-                                        <div class="message">Create metrics2.yml</div>
+                                        <div class="sha">#c4d4ee2</div>
+                                        <div class="message">Update metrics2.yml</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 Feb 2022, 14:30:39</div>
+                                <div class="timestamp">2 Feb 2022, 15:12:31</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -52,11 +52,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d907939</div>
-                                        <div class="message">Update and rename metrics.yml to metrics1.yml</div>
+                                        <div class="sha">#bc18654</div>
+                                        <div class="message">Update metrics1.yml</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 Feb 2022, 14:29:45</div>
+                                <div class="timestamp">2 Feb 2022, 15:10:38</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -74,11 +74,11 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#480b1a0</div>
-                                        <div class="message">Update metrics.yml</div>
+                                        <div class="sha">#f68e1f3</div>
+                                        <div class="message">Delete github-metrics.svg</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 Feb 2022, 14:24:07</div>
+                                <div class="timestamp">2 Feb 2022, 15:09:44</div>
                             </section>
                         </div>
                         <div class="row fill-width">
@@ -96,33 +96,33 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9d8ae10</div>
-                                        <div class="message">Update metrics.yml</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">2 Feb 2022, 14:21:34</div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        <span class="user">BPower0036</span>
-                                        pushed 1 commit in
-                                        <span class="repo">BPower0036/BPower0036</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1c84f1c</div>
+                                        <div class="sha">#01c7b58</div>
                                         <div class="message">Update README.md</div>
                                     </div>
                                 </div>
-                                <div class="timestamp">2 Feb 2022, 14:14:38</div>
+                                <div class="timestamp">2 Feb 2022, 15:09:23</div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        <span class="user">BPower0036</span>
+                                        pushed 1 commit in
+                                        <span class="repo">BPower0036/BPower0036</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#90913cf</div>
+                                        <div class="message">Update metrics1.yml</div>
+                                    </div>
+                                </div>
+                                <div class="timestamp">2 Feb 2022, 15:04:52</div>
                             </section>
                         </div>
                     </section>
