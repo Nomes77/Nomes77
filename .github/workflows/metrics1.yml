@@ -1,4 +1,4 @@
-name: Metrics
+name: Metrics-Master
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 0 * * *"}]
