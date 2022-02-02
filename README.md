@@ -29,7 +29,6 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
        <img src="/metrics.plugin.languages.details.svg" alt="Languages details"></img>
     </td>
   </tr>
-  </tr>
     <td>
       <img src="/metrics.plugin.followup.user.svg" alt="Follow up"></img>
     </td>
@@ -37,11 +36,22 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
        <img src="/metrics.plugin.lines.svg" alt="Lines"></img>
     </td>
   </tr>
+</table> </br>
+<table align="center">
+  <td>
+    <img src="/metrics.plugin.activity.svg" alt="Activity"></img>
+  </td>
+</table> </br>
+<table>
+    <td>
+      <img src="/metrics.plugin.reactions.svg" alt="Reactions"></img>
+    </td>
+    <td>
+       <img src="/metrics.plugin.people.repository.svg" alt="People reprository"></img>
+    </td>
+  </tr>
 </table>
 
-![Metrics](https://github.com/BPower0036/BPower0036/blob/main/metrics.plugin.activity.svg)
-![Metrics](https://github.com/BPower0036/BPower0036/blob/main/metrics.plugin.reactions.svg)
-![Metrics](https://github.com/BPower0036/BPower0036/blob/main/metrics.plugin.people.repository.svg)
 <!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=chartreuse-dark) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BPower0036&layout=compact&langs_count=10) --> <br>
 [![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&reversal=true&text=Please%20support%20me&animation=blinking&fontSize=35&fontAlignY=85&height=100)](https://www.paypal.com/donate?hosted_button_id=M4D2NPZX5NS4C)
