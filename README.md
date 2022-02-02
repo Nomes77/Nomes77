@@ -14,44 +14,44 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
 ![BPower0036's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BPower0036&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B&custom_title=All%20My%20Stats%20in%20a%20Nutshell) <br>
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="/metrics.base.svg" alt="Base" width="400"></img>
-      <img src="/metrics.plugin.lines.svg" alt="Lines" width="400"></img>
+    <td align="center" width="400">
+      <img src=".github/src/metrics.base.svg" alt="Base" width=></img>
+      <img src=".github/src/metrics.plugin.lines.svg" alt="Lines"></img>
     </td>
-    <td align="center">
-      <img src="/metrics.plugin.isocalendar.svg" alt="Full-year calendar" width="400"></img>
+    <td align="center" width="400">
+      <img src=".github/src/metrics.plugin.isocalendar.svg" alt="Full-year calendar"></img>
       <tr>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="/metrics.plugin.habits.charts.svg" alt="Habits charts" width="400"></img>
+    <td align="center" width="400">
+      <img src=".github/src/metrics.plugin.habits.charts.svg" alt="Habits charts"></img>
     </td>
-    <td align="center">
-       <img src="/metrics.plugin.followup.user.svg" alt="Follow up" width="400"></img>
+    <td align="center" width="400">
+       <img src=".github/src/metrics.plugin.followup.user.svg" alt="Follow up"</img>
     </td>
   </tr>
   <tr>
-    <td  align="center">
+    <td  align="center" width="400">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPower0036&layout=compact&langs_count=10" alt="Top Languages"></img>
     </td>
-    <td  align="center">
-       <img src="/metrics.plugin.languages.details.svg" alt="Languages lost used" width="400"></img>
+    <td  align="center" width="400">
+       <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages lost used"></img>
     </td
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="/metrics.plugin.activity.svg" alt="Activity" width="400"></img>
+      <img src=".github/src/metrics.plugin.activity.svg" alt="Activity" width="400"></img>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="/metrics.plugin.reactions.svg" alt="Reactions" width="400"></img>
+      <img src=".github/src/metrics.plugin.reactions.svg" alt="Reactions" width="400"></img>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-       <img src="/metrics.plugin.people.repository.svg" alt="People reprository" width="400"></img>
+       <img src=".github/src/metrics.plugin.people.repository.svg" alt="People reprository"></img>
     </td>
   </tr>
 </table>
