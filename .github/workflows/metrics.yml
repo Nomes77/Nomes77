@@ -9,10 +9,13 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # See action.yml for all options
+      - uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.isocalendar.svg
+          base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # Display full year instead of half year
           token: ${{ secrets.METRICS_TOKEN }}
