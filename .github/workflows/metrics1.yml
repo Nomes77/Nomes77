@@ -10,19 +10,19 @@ jobs:
     steps:
       - uses: lowlighter/metrics@master
         with:
-          filename: metrics.base.svg
+          filename: .github/src/metrics.base.svg
           base: header, activity, community
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.isocalendar.svg
+          filename: .github/src/metrics.plugin.isocalendar.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@master
         with:
-          filename: metrics.plugin.habits.charts.svg
+          filename: .github/src/metrics.plugin.habits.charts.svg
           base: ""
           plugin_habits: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
@@ -35,8 +35,10 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           base: ""
-          filename: metrics.plugin.languages.details.svg
+          filename: .github/src/metrics.plugin.languages.details.svg
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: lines, percentage
+          plugin_languages_sections: recently-used
           token: ${{ secrets.METRICS_TOKEN }}
+
