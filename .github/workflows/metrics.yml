@@ -83,6 +83,6 @@ jobs:
           plugin_skyline_year: 2021         # current-year
           plugin_skyline_frames: 110        # 120=full-loop, 60=half-loop
           plugin_skyline_quality: 0.75      # default=0.5, max=1
-          plugin_skyline_compatibility: yes # This uses CSS animations rather than embedded GIF to support a widerr range of browser (FF/Saf). Increase file size.
+          plugin_skyline_compatibility: yes # This uses CSS animations rather than embedded GIF to support a wider range of browser (FF/Saf). Increase file size.
           token: NOT_NEEDED
 
