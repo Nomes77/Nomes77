@@ -16,29 +16,29 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
 </br>
 <table align="center">
   <tr>
-    <td align="center" width="460">
+    <td align="center" width="50%">
       <img src=".github/src/metrics.base.svg" alt="Base" width=></img>
       <img src=".github/src/metrics.plugin.lines.svg" alt="Lines"></img>
     </td>
-    <td align="center" width="460">
+    <td align="center" width="50%">
       <img src=".github/src/metrics.plugin.isocalendar.svg" alt="Full-year calendar"></img>
       <tr>
     </td>
   </tr>
   <tr>
-    <td align="center" width="460">
+    <td align="center" width="50%">
       <img src=".github/src/metrics.plugin.habits.charts.svg" alt="Habits charts"></img>
     </td>
-    <td align="center" width="460">
+    <td align="center" width="50%">
        <img src=".github/src/metrics.plugin.followup.user.svg" alt="Follow up"</img>
     </td>
   </tr>
   <tr>
-    <td  align="center" width="460">
+    <td  align="center" width="50%">
       <img src=".github/src/metrics.plugin.languages.details2.svg" alt="Top Languages"></img>
       <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPower0036&layout=compact&langs_count=10" alt="Top Languages"></img> -->
     </td>
-    <td  align="center" width="460">
+    <td  align="center" width="50%">
        <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages most used"></img>
     </td
   </tr>
@@ -49,17 +49,17 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src=".github/src/metrics.plugin.reactions.svg" alt="Reactions" width="460"></img>
+      <img src=".github/src/metrics.plugin.reactions.svg" alt="Reactions" width="50%"></img>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-       <img src=".github/src/metrics.plugin.people.repository.svg" alt="People reprository" width="460"></img>
+       <img src=".github/src/metrics.plugin.people.repository.svg" alt="People reprository" width="50%"></img>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src=".github/src/metrics.plugin.skyline.svg" alt="Skyline Current Year" width="750"></img>
+      <img src=".github/src/metrics.plugin.skyline.svg" alt="Skyline Current Year" width="60%"></img>
     </td>
   </tr>
 </table>
