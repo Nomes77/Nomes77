@@ -34,6 +34,12 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
     </td>
   </tr>
   <tr>
+    <td align="center" colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=chartreuse-dark&custom_title=Contribution%20Graph%20last%2031%20days" alt="Activity Graph last 31 days"></img>
+      <img src=".github/src/metrics.plugin.skyline.svg" alt="Skyline Current Year"></img>
+    </td>
+  </tr>
+  <tr>
     <td  align="center" width="460">
       <img src=".github/src/metrics.plugin.languages.details2.svg" alt="Top Languages"></img>
       <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPower0036&layout=compact&langs_count=10" alt="Top Languages"></img> -->
@@ -41,12 +47,6 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
     <td  align="center" width="460">
        <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages most used"></img>
     </td
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src=".github/src/metrics.plugin.activity.svg" alt="Activity" width="550"></img>
-      <img src="https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=chartreuse-dark" alt="Activity Graph"></img>
-    </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
@@ -63,4 +63,5 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
 <p align="center">
   <a href="https://www.paypal.com/donate?hosted_button_id=M4D2NPZX5NS4C">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&reversal=true&text=Please%20support%20me&animation=blinking&fontSize=35&fontAlignY=85&height=100" alt="Footer-Help-Donate"></img>
-</br>
+  </a>
+</p>
