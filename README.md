@@ -43,7 +43,7 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=chartreuse-dark&custom_title=Contribution%20Graph%20last%2031%20days" alt="Activity Graph last 31 days"></img>
+      <img src="https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=chartreuse-dark&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img>
     </td>
   </tr>
   <tr>
