@@ -1,0 +1,24 @@
+name: Metrics Activity
+on:
+  # Schedule updates (every day)
+  schedule: [{cron: "0 12 * * *"}]
+  # Lines below let you run workflow manually
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          template: repository
+          filename: .github/src/metrics.plugin.activity.svg
+          base: ""
+          user: BPower0036
+          repo: BPower0036
+          plugin_activity: yes
+          plugin_activity_days: 31
+          plugin_activity_limit: 77
+          plugin_activity_visibility: public
+          plugin_activity_timestamps: yes
+          plugin_activity_skipped: BPower0036/chess, BPower0036/BPower0036
+          token: ${{ secrets.METRICS_TOKEN }}
