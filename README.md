@@ -1,4 +1,7 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&reversal=true&text=Hi%20there&fontSize=48&fontAlignY=35&height=150) <br>
+<a href="https://github.com/BPower0036/BPower0036/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&reversal=true&text=Hi%20there&fontSize=48&fontAlignY=35&height=150" width="100%" align="center"></img>
+</a>
+
 I'm BPower0036. I develop things, because I want them better then other people have done it. <br>
 I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/2323309#map=5/51.154/9.712). If you want, you can talk English, Dutch and even German to me. I understand it all.
 
@@ -63,8 +66,6 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://www.paypal.com/donate?hosted_button_id=M4D2NPZX5NS4C">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&reversal=true&text=Please%20support%20me&animation=blinking&fontSize=35&fontAlignY=85&height=100" alt="Footer-Help-Donate" width="100%"></img>
-  </a>
-</p>
+<a href="https://www.paypal.com/donate?hosted_button_id=M4D2NPZX5NS4C">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&reversal=true&text=Please%20support%20me&animation=blinking&fontSize=35&fontAlignY=85&height=100" alt="Footer-Help-Donate" width="100%" align="center"></img>
+</a>
