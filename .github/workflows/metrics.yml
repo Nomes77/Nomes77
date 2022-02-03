@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  # Schedule updates (Mon, Wed, Fri 12:00)
-  schedule: [{cron: "0 12 * * 1,3,5"}]
+  # Schedule updates (Mon, Tue, Wed, Thu, Fri 12:00)
+  schedule: [{cron: "0 12 * * 1,2,3,4,5"}]
   # Lines below let you run workflow manually
   workflow_dispatch:
 jobs:
@@ -64,6 +64,16 @@ jobs:
           plugin_followup: yes
           plugin_followup_indepth: yes
           token: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: .github/src/metrics.plugin.skyline.svg
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: current-year
+          plugin_skyline_frames: 120
+          plugin_skyline_quality: 1
+          plugin_skyline_compatibility: no
+          token: NOT_NEEDED
       - uses: lowlighter/metrics@latest
         with:
           filename: .github/src/metrics.plugin.reactions.svg
