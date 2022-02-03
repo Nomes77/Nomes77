@@ -11,12 +11,7 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           filename: .github/src/metrics.base.svg
-          base: header, activity, community
-          token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: .github/src/metrics.plugin.lines.svg
-          base: repositories, metadata
+          base: header, activity, community, repositories, metadata
           plugin_lines: yes
           plugin_traffic: yes
           token: ${{ secrets.METRICS_TOKEN }}
