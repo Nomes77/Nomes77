@@ -18,7 +18,6 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
   <tr>
     <td align="center" width="50%">
       <img src=".github/src/metrics.base.svg" alt="Base" width=></img>
-      <img src=".github/src/metrics.plugin.lines.svg" alt="Lines"></img>
     </td>
     <td align="center" width="50%">
       <img src=".github/src/metrics.plugin.isocalendar.svg" alt="Full-year calendar"></img>
