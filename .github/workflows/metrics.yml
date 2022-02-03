@@ -1,8 +1,8 @@
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run workflow manually and on each commit (optional)
+  # Schedule updates (Mon, Wed, Fri 12:00)
+  schedule: [{cron: "0 12 * * 1,3,5"}]
+  # Lines below let you run workflow manually
   workflow_dispatch:
 jobs:
   github-metrics:
