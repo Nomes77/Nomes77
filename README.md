@@ -34,12 +34,6 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
     </td>
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=chartreuse-dark&custom_title=Contribution%20Graph%20last%2031%20days" alt="Activity Graph last 31 days"></img>
-      <img src=".github/src/metrics.plugin.skyline.svg" alt="Skyline Current Year"></img>
-    </td>
-  </tr>
-  <tr>
     <td  align="center" width="460">
       <img src=".github/src/metrics.plugin.languages.details2.svg" alt="Top Languages"></img>
       <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPower0036&layout=compact&langs_count=10" alt="Top Languages"></img> -->
@@ -50,12 +44,22 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
   </tr>
   <tr>
     <td align="center" colspan="2">
+      <img src="https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=chartreuse-dark&custom_title=Contribution%20Graph%20last%2031%20days" alt="Activity Graph last 31 days"></img>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
       <img src=".github/src/metrics.plugin.reactions.svg" alt="Reactions" width="460"></img>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
        <img src=".github/src/metrics.plugin.people.repository.svg" alt="People reprository" width="460"></img>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src=".github/src/metrics.plugin.skyline.svg" alt="Skyline Current Year" width="750"></img>
     </td>
   </tr>
 </table>
