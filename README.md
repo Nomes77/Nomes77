@@ -65,6 +65,6 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
 
 <p align="center">
   <a href="https://www.paypal.com/donate?hosted_button_id=M4D2NPZX5NS4C">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&reversal=true&text=Please%20support%20me&animation=blinking&fontSize=35&fontAlignY=85&height=100" alt="Footer-Help-Donate"></img>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer&reversal=true&text=Please%20support%20me&animation=blinking&fontSize=35&fontAlignY=85&height=100" alt="Footer-Help-Donate" width="100%"></img>
   </a>
 </p>
