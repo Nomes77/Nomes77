@@ -13,6 +13,13 @@ jobs:
           filename: .github/src/metrics.base.svg
           base: header, activity, community
           token: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: .github/src/metrics.plugin.lines.svg
+          base: repositories, metadata
+          plugin_lines: yes
+          plugin_traffic: yes
+          token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@master
         with:
           filename: .github/src/metrics.plugin.isocalendar.svg
@@ -31,6 +38,14 @@ jobs:
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: no        # Trim unused hours on daily chart
           config_timezone: Europe/Paris # Set timezone
+          token: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          # template: repository
+          filename: .github/src/metrics.plugin.followup.user.svg
+          base: ""
+          plugin_followup: yes
+          plugin_followup_indepth: yes
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@master
         with:
@@ -52,30 +67,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
-          filename: .github/src/metrics.plugin.lines.svg
-          base: repositories, metadata
-          plugin_lines: yes
-          token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
-        with:
-          # template: repository
-          filename: .github/src/metrics.plugin.followup.user.svg
-          base: ""
-          plugin_followup: yes
-          plugin_followup_indepth: yes
-          token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: .github/src/metrics.plugin.skyline.svg
-          base: ""
-          plugin_skyline: yes
-          plugin_skyline_year: current-year
-          plugin_skyline_frames: 120
-          plugin_skyline_quality: 1
-          plugin_skyline_compatibility: no
-          token: NOT_NEEDED
-      - uses: lowlighter/metrics@latest
-        with:
           filename: .github/src/metrics.plugin.reactions.svg
           base: ""
           plugin_reactions: yes
@@ -89,4 +80,14 @@ jobs:
           plugin_people: yes
           plugin_people_types: followers, contributors, stargazers, watchers
           token: ${{ secrets.METRICS_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: .github/src/metrics.plugin.skyline.svg
+          base: ""
+          plugin_skyline: yes
+          plugin_skyline_year: current-year
+          plugin_skyline_frames: 120
+          plugin_skyline_quality: 1
+          plugin_skyline_compatibility: no
+          token: NOT_NEEDED
 
