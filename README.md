@@ -16,6 +16,10 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BPower0036&column=6" alt="BPower0036's GitHub Tropy's" align="center"></img>
+<details align="center"><summary align="center">All Achievements
+  <img src=".github/src/metrics.plugin.achievements.compact.svg" alt="Achievements Compact Display" align="center"></img>
+</summary></details>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BPower0036&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B&custom_title=All%20My%20Stats%20in%20a%20Nutshell" alt="BPower0036's GitHub Stats" align="center"></img>
 </br>
 <table align="center">
@@ -44,6 +48,11 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
     <td  align="center" width="50%">
        <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages most used"></img>
     </td
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src=".github/src/metrics.plugin.achievements.compact.svg" alt="Achievements Compact Display"></img>
+    </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
