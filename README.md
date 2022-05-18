@@ -17,7 +17,6 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BPower0036&column=6" alt="BPower0036's GitHub Tropy's" align="center"></img>
   <img src="https://github-readme-stats.vercel.app/api?username=BPower0036&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B&custom_title=All%20My%20Stats%20in%20a%20Nutshell" alt="BPower0036's GitHub Stats" align="center"></img>
-</br>
 <table align="center">
   <tr>
     <td align="center" width="50%">
