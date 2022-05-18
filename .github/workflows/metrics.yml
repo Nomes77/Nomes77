@@ -74,6 +74,17 @@ jobs:
           plugin_people_types: followers, contributors, stargazers, watchers
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
+        with: 
+          filename: .github/src/metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+#          plugin_achievements_only: >-
+#            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+#            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C
+      - uses: lowlighter/metrics@latest
         with:
           filename: .github/src/metrics.plugin.skyline.svg
           base: ""
