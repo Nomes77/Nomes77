@@ -45,10 +45,11 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
     </td
   </tr>
   <tr>
-    <td align="center" colspan="2">
-      <details align="center"><summary align="center">All Achievements
-        <img src=".github/src/metrics.plugin.achievements.compact.svg" alt="Achievements Compact Display" align="center"></img>
-      </summary></details>
+    <td align="center">
+        <img src=".github/src/metrics.plugin.starlists.languages.svg" alt="Featured star list languages" width="400"></img> 
+    </td>
+    <td align="center">
+        <img src=".github/src/metrics.plugin.achievements.compact.svg" alt="Achievements Compact Display" width="400"></img>
     </td>
   </tr>
   <tr>
