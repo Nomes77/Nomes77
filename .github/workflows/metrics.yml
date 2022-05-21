@@ -12,6 +12,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           plugin_lines: yes
           plugin_traffic: yes
+          plugin_discussions: yes
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@master
         with:
@@ -77,6 +78,8 @@ jobs:
         with: 
           filename: .github/src/metrics.plugin.starlists.languages.svg
           base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 3
           plugin_starlists: yes
           plugin_starlists_languages: yes
           plugin_starlists_shuffle_repositories: yes
