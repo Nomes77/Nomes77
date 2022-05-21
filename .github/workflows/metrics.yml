@@ -76,7 +76,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with: 
           filename: .github/src/metrics.plugin.starlists.languages.svg
-          token: NOT_NEEDED
           base: ""
           plugin_starlists: yes
           plugin_starlists_languages: yes
@@ -84,17 +83,19 @@ jobs:
           plugin_starlists_limit_languages: disable
           plugin_starlists_limit: 3
           plugin_starlists_limit_repositories: 3
+          token: NOT_NEEDED
       - uses: lowlighter/metrics@latest
         with: 
           filename: .github/src/metrics.plugin.achievements.compact.svg
-          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
-#          plugin_achievements_only: >-
-#            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
-#            scripter, packager, explorer, infographile, manager
-          plugin_achievements_display: detailed
           plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          # plugin_achievements_only: >-
+          #  polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+          #  scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: detailed
+          token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
           filename: .github/src/metrics.plugin.skyline.svg
@@ -105,4 +106,12 @@ jobs:
           plugin_skyline_quality: 0.75      # default=0.5, max=1
           plugin_skyline_compatibility: yes # This uses CSS animations rather than embedded GIF to support a wider range of browser (FF/Saf). Increase file size.
           token: NOT_NEEDED
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.calendar.full.svg
+          base: ""
+          plugin_calendar: yes
+          plugin_calendar_limit: 0
+          token: ${{ secrets.METRICS_TOKEN }}
+
 
