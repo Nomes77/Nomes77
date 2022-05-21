@@ -108,7 +108,7 @@ jobs:
           token: NOT_NEEDED
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.calendar.full.svg
+          filename: .github/src/metrics.plugin.calendar.full.svg
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
