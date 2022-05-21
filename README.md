@@ -70,7 +70,7 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
   <tr>
     <td align="center" colspan="2">
       <img src=".github/src/metrics.plugin.skyline.svg" alt="Skyline Current Year" width="60%"></img>
-      <details open><summary>Full history</summary><img src=".github/src/metrics.plugin.calendar.full.svg" alt="Full history" ></img></details>
+      <details><summary>Full history</summary><img src=".github/src/metrics.plugin.calendar.full.svg" alt="Full history" ></img></details>
     </td>
   </tr>
 </table>
