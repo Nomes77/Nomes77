@@ -8,10 +8,10 @@ I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/23233
 ## Developer for Fun
 - 🔭 I’m currently working on: [EasyDutch](https://github.com/EasyDutch-uBO/EasyDutch/)
 - 🌱 I’m currently learning everything I come along and want to do different or nicer.
-- 🤔 I’m looking for help with solving a problem on my [YT-Nonstop extension](https://github.com/BPower0036/YT-Nonstop/issues/8)
+- 🤔 I’m looking for help with solving nothing
 - 💬 Ask me about anything I maybe can know.
 - 📫 How to reach me: Make an issue on my GitHub pages or start [here a Discussion](https://github.com/BPower0036/BPower0036/discussions)
-- 😄 Pronouns: Mr.
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Everything done on my GitHub repro's I have learned myself without any prior coding knowledge.
 
 <p align="center">
