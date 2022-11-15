@@ -13,6 +13,7 @@ And you're the <img src="https://profile-counter.glitch.me/BPower0036/count.svg"
 - 💬 Ask me about anything I maybe can know.
 - 📫 How to reach me: Make an issue on my GitHub pages or start [here a Discussion](https://github.com/BPower0036/BPower0036/discussions)
 - 😄 Pronouns: He/Him.
+- 😄 Suffix: BA.
 - ⚡ Fun fact: Everything done on my GitHub repro's I have learned myself without any prior coding knowledge.
 
 <p align="center">
