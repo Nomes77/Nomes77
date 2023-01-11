@@ -5,6 +5,7 @@
 I'm BPower0036. I develop things, because I want them better then other people have done it. <br>
 I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/2323309#map=5/51.154/9.712). If you want, you can talk English, Dutch and even German to me. I understand it all. <br>
 And you're the <img src="https://profile-counter.glitch.me/BPower0036/count.svg"></img>th visitor of this page.
+<img src="https://komarev.com/ghpvc/?username=BPower0036&label=Profile%20views&color=lightgrey&style=flat" alt="BPower0036"></img>
 
 ## Developer for Fun
 - 🔭 I’m currently working on: [EasyDutch](https://github.com/EasyDutch-uBO/EasyDutch/)
@@ -17,7 +18,7 @@ And you're the <img src="https://profile-counter.glitch.me/BPower0036/count.svg"
 - ⚡ Fun fact: Everything done on my GitHub repro's I have learned myself without any prior coding knowledge.
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BPower0036&column=6" alt="BPower0036's GitHub Tropy's" align="center"></img>
+  <img src="https://hacked-github-stat-trophies.vercel.app/?username=BPower0036&column=8&title=Star,Commit,Follower,Issue,PullRequest,Repository,MultipleLang,LongTimeAccount,AncientAccount,MultipleOrganizations" alt="BPower0036's GitHub Tropy's" align="center"></img>
   <img src="https://github-readme-stats.vercel.app/api?username=BPower0036&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B&custom_title=All%20My%20Stats%20in%20a%20Nutshell" alt="BPower0036's GitHub Stats" align="center"></img>
 <table align="center">
   <tr>
@@ -56,7 +57,7 @@ And you're the <img src="https://profile-counter.glitch.me/BPower0036/count.svg"
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=BPower0036&theme=chartreuse-dark&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img>
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BPower0036&theme=chartreuse-dark&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img>
     </td>
   </tr>
   <tr>
