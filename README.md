@@ -19,7 +19,6 @@ And you're the <img src="https://profile-counter.glitch.me/BPower0036/count.svg"
 - [My GitHub UnWrapped](https://www.githubunwrapped.com/BPower0036) / [From 2022](https://user-images.githubusercontent.com/80090789/211824788-51e04065-2655-4df8-9a60-28734554b597.mp4)
 
 <p align="center">
-  <img src="https://hacked-github-stat-trophies.vercel.app/?username=BPower0036&column=8&title=Star,Commit,Follower,Issue,PullRequest,Repository,MultipleLang,LongTimeAccount,AncientAccount,MultipleOrganizations" alt="BPower0036's GitHub Tropy's" align="center"></img>
   <img src="https://github-readme-stats.vercel.app/api?username=BPower0036&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B&custom_title=All%20My%20Stats%20in%20a%20Nutshell" alt="BPower0036's GitHub Stats" align="center"></img>
 <table align="center">
   <tr>
