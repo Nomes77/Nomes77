@@ -59,7 +59,7 @@ jobs:
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used
           token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           filename: .github/src/metrics.plugin.reactions.svg
           base: ""
@@ -83,10 +83,10 @@ jobs:
           plugin_starlists: yes
           plugin_starlists_languages: yes
           plugin_starlists_shuffle_repositories: yes
-          plugin_starlists_limit_languages: disable
+          plugin_starlists_limit_languages: 0
           plugin_starlists_limit: 3
           plugin_starlists_limit_repositories: 3
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with: 
           filename: .github/src/metrics.plugin.achievements.compact.svg
