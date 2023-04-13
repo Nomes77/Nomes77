@@ -5,7 +5,6 @@
 I'm BPower0036. I develop things, because I want them better then other people have done it. <br>
 I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/2323309#map=5/51.154/9.712). If you want, you can talk English, Dutch and even German to me. I understand it all. <br>
 And you're the <img src="https://profile-counter.glitch.me/BPower0036/count.svg"></img>th visitor of this page.
-<img src="https://komarev.com/ghpvc/?username=BPower0036&label=Profile%20views&color=lightgrey&style=flat" alt="BPower0036"></img>
 
 ## Developer for Fun
 - 🔭 I’m currently working on: [EasyDutch](https://github.com/EasyDutch-uBO/EasyDutch/)
