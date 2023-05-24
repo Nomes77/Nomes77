@@ -56,7 +56,7 @@ And you're the <img src="https://profile-counter.glitch.me/BPower0036/count.svg"
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=BPower0036&theme=chartreuse-dark&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=BPower0036&theme=chartreuse-dark&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img>
     </td>
   </tr>
   <tr>
