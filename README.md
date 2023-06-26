@@ -39,11 +39,13 @@ And you're the <img src="https://profile-counter.glitch.me/BPower0036/count.svg"
   </tr>
   <tr>
     <td  align="center" width="50%">
-      <img src=".github/src/metrics.plugin.languages.details2.svg" alt="Top Languages"></img>
+      <!-- <img src=".github/src/metrics.plugin.languages.details2.svg" alt="Top Languages"></img> -->
       <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPower0036&layout=compact&langs_count=10" alt="Top Languages"></img> -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BPower0036&theme=transparent" alt="Most committed Languages"></img>
     </td>
     <td  align="center" width="50%">
-       <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages most used"></img>
+       <!-- <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages most used"></img> -->
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BPower0036&theme=transparent" alt="Repos per Languages></img>
     </td
   </tr>
   <tr>
