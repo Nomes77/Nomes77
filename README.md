@@ -45,7 +45,7 @@ And you're the <img src="https://profile-counter.glitch.me/BPower0036/count.svg"
     </td>
     <td  align="center" width="50%">
        <!-- <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages most used"></img> -->
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BPower0036&theme=transparent" alt="Repos per Languages></img>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BPower0036&theme=transparent" alt="Repos per Languages"></img>
     </td
   </tr>
   <tr>
