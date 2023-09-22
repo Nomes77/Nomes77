@@ -6,7 +6,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           filename: .github/src/metrics.base.svg
           base: header, activity, community, repositories, discussions, metadata
@@ -14,14 +14,14 @@ jobs:
           plugin_traffic: yes
           plugin_discussions: yes
           token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           filename: .github/src/metrics.plugin.isocalendar.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           filename: .github/src/metrics.plugin.habits.charts.svg
           base: ""
@@ -41,7 +41,7 @@ jobs:
           plugin_followup: yes
           plugin_followup_indepth: yes
           token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@main
         with:
           base: ""
           filename: .github/src/metrics.plugin.languages.details.svg
@@ -50,7 +50,7 @@ jobs:
           plugin_languages_details: lines, percentage
           plugin_languages_sections: recently-used
           token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@main
         with:
           base: ""
           filename: .github/src/metrics.plugin.languages.details2.svg
@@ -59,7 +59,7 @@ jobs:
           plugin_languages_details: lines, bytes-size, percentage
           plugin_languages_sections: most-used
           token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           filename: .github/src/metrics.plugin.reactions.svg
           base: ""
@@ -87,7 +87,7 @@ jobs:
           plugin_starlists_limit: 3
           plugin_starlists_limit_repositories: 3
           token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@main
         with: 
           filename: .github/src/metrics.plugin.achievements.compact.svg
           base: ""
@@ -99,7 +99,7 @@ jobs:
           #  scripter, packager, explorer, infographile, manager
           plugin_achievements_display: detailed
           token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@main
         with:
           filename: .github/src/metrics.plugin.skyline.svg
           base: ""
