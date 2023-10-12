@@ -1,24 +1,24 @@
-<a href="https://github.com/BPower0036/BPower0036/">
+<a href="https://github.com/Nomes77/Nomes77/">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&section=header&reversal=true&text=Hi%20there&fontSize=48&fontAlignY=35&height=150" width="100%" align="center"></img>
 </a>
 
-I'm BPower0036. I develop things, because I want them better then other people have done it. <br>
+I'm NomenNescio. I develop things, because I want them better then other people have done it. <br>
 I live in the [Netherlands/Holland](https://www.openstreetmap.org/relation/2323309#map=5/51.154/9.712). If you want, you can talk English, Dutch and even German to me. I understand it all. <br>
-And you're the <img src="https://profile-counter.glitch.me/BPower0036/count.svg"></img>th visitor of this page.
+And you're the <img src="https://profile-counter.glitch.me/Nomes77/count.svg"></img>th visitor of this page.
 
 ## Developer for Fun
 - 🔭 I’m currently working on: [EasyDutch](https://github.com/EasyDutch-uBO/EasyDutch/)
 - 🌱 I’m currently learning everything I come along and want to do different or nicer.
 - 🤔 I’m looking for help with solving nothing.😂
 - 💬 Ask me about anything I maybe can know.
-- 📫 How to reach me: Make an issue on my GitHub pages or start [here a Discussion](https://github.com/BPower0036/BPower0036/discussions)
+- 📫 How to reach me: Make an issue on my GitHub pages or start [here a Discussion](https://github.com/Nomes77/Nomes77/discussions)
 - 😄 Pronouns: He/Him.
 - 😄 Suffix: BA.
 - ⚡ Fun fact: Everything done on my GitHub repro's I have learned myself without any prior coding knowledge.
-- [My GitHub UnWrapped](https://www.githubunwrapped.com/BPower0036) / [From 2022](https://user-images.githubusercontent.com/80090789/211824788-51e04065-2655-4df8-9a60-28734554b597.mp4)
+- [My GitHub UnWrapped](https://www.githubunwrapped.com/Nomes77) / [From 2022](https://user-images.githubusercontent.com/80090789/211824788-51e04065-2655-4df8-9a60-28734554b597.mp4)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BPower0036&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B&custom_title=All%20My%20Stats%20in%20a%20Nutshell" alt="BPower0036's GitHub Stats" align="center"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nomes77&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_radius=20px&border_color=FF3B3B&custom_title=All%20My%20Stats%20in%20a%20Nutshell" alt="Nomes77's GitHub Stats" align="center"></img>
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -40,12 +40,12 @@ And you're the <img src="https://profile-counter.glitch.me/BPower0036/count.svg"
   <tr>
     <td  align="center" width="50%">
       <!-- <img src=".github/src/metrics.plugin.languages.details2.svg" alt="Top Languages"></img> -->
-      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BPower0036&layout=compact&langs_count=10" alt="Top Languages"></img> -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BPower0036&theme=transparent" alt="Most committed Languages"></img>
+      <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nomes77&layout=compact&langs_count=10" alt="Top Languages"></img> -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nomes77&theme=transparent" alt="Most committed Languages"></img>
     </td>
     <td  align="center" width="50%">
        <!-- <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages most used"></img> -->
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BPower0036&theme=transparent" alt="Repos per Languages"></img>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nomes77&theme=transparent" alt="Repos per Languages"></img>
     </td
   </tr>
   <tr>
@@ -58,7 +58,7 @@ And you're the <img src="https://profile-counter.glitch.me/BPower0036/count.svg"
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=BPower0036&theme=chartreuse-dark&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nomes77&theme=chartreuse-dark&custom_title=My%20Contribution%20Graph%20of%20the%20last%2031%20days" alt="Activity Graph last 31 days"></img>
     </td>
   </tr>
   <tr>
