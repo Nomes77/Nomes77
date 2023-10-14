@@ -11,8 +11,6 @@ And you're the <img src="https://profile-counter.glitch.me/Nomes77/count.svg"></
 - 🤔 I’m looking for help with solving nothing.😂
 - 💬 Ask me about anything I maybe can know.
 - 📫 How to reach me: Make an issue on my GitHub pages or start [here a Discussion](https://github.com/Nomes77/Nomes77/discussions)
-- 😄 Pronouns: He/Him.
-- 😄 Suffix: BA.
 - ⚡ Fun fact: Everything done on my GitHub repro's I have learned myself without any prior coding knowledge.
 - [My GitHub UnWrapped](https://www.githubunwrapped.com/Nomes77) / [From 2022](https://user-images.githubusercontent.com/80090789/211824788-51e04065-2655-4df8-9a60-28734554b597.mp4)
 
