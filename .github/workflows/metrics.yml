@@ -13,6 +13,7 @@ jobs:
           plugin_lines: yes
           plugin_traffic: yes
           plugin_discussions: yes
+          base_indepth: yes
           token: ${{ secrets.METRICS_TOKEN }}
       - uses: lowlighter/metrics@latest
         with:
