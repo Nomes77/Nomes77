@@ -70,8 +70,9 @@ And you're the <img src="https://profile-counter.glitch.me/Nomes77/count.svg"></
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src=".github/src/metrics.plugin.skyline.svg" alt="Skyline Current Year" width="60%"></img>
-      <details><summary>Full history</summary><img src=".github/src/metrics.plugin.calendar.full.svg" alt="Full history" ></img></details>
+      <!-- img src=".github/src/metrics.plugin.skyline.svg" alt="Skyline Current Year" width="60%"></img -->
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nomes77&theme=moltack" alt="Overview Last Year" width="100%"></img>
+      <details><summary>Full history</summary><img src=".github/src/metrics.plugin.calendar.full.svg" alt="Full history"></img></details>
     </td>
   </tr>
 </table>
