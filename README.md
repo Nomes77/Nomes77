@@ -41,8 +41,9 @@ And you're the <img src="https://profile-counter.glitch.me/Nomes77/count.svg"></
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nomes77&theme=transparent" alt="Most committed Languages"></img>
     </td>
     <td  align="center" width="50%">
-       <!-- <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages most used"></img> -->
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nomes77&theme=transparent" alt="Repos per Languages"></img>
+      <!-- <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages most used"></img> -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nomes77&layout=compact&langs_count=10" alt="Languages most used"></img>
+      <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nomes77&theme=transparent" alt="Repos per Languages"></img> -->
     </td
   </tr>
   <tr>
@@ -71,7 +72,6 @@ And you're the <img src="https://profile-counter.glitch.me/Nomes77/count.svg"></
   <tr>
     <td align="center" colspan="2">
       <!-- img src=".github/src/metrics.plugin.skyline.svg" alt="Skyline Current Year" width="60%"></img -->
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nomes77&theme=moltack" alt="Overview Last Year" width="100%"></img>
       <details><summary>Full history</summary><img src=".github/src/metrics.plugin.calendar.full.svg" alt="Full history"></img></details>
     </td>
   </tr>
