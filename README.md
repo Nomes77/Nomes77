@@ -42,7 +42,7 @@ And you're the <img src="https://profile-counter.glitch.me/Nomes77/count.svg"></
     </td>
     <td  align="center" width="50%">
       <!-- <img src=".github/src/metrics.plugin.languages.details.svg" alt="Languages most used"></img> -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nomes77&layout=compact&langs_count=10" alt="Languages most used"></img>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nomes77&layout=compact&langs_count=10&theme=transparent" alt="Languages most used"></img>
       <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nomes77&theme=transparent" alt="Repos per Languages"></img> -->
     </td
   </tr>
